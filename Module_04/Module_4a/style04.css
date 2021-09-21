@@ -1,0 +1,40 @@
+/*Chrissy Stevens 09/20/21 */
+
+body {
+    color: #000000;
+    background-color: #D9F1C1;
+
+}
+
+#outerwrapper {
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+header, nav, footer {
+    font-family: Calibri, Arial, sans-serif;
+}
+
+nav {
+    clear: both;
+}
+
+#main {
+    font-family: Garamond, "Times New Roman", serif;
+    background-color: #f0f9e6;
+    padding: 10px;
+
+}
+
+img {
+    float: left;
+}
+
+.addrightmargin {
+    margin-right: 2%;
+}
+
+footer {
+    font-size: .75em;
+    text-align: center;
+}
