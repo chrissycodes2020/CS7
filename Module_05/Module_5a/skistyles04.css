@@ -1,0 +1,66 @@
+/* Chrissy Stevens 10/01/21 */
+
+body { 
+	color: #FFFFFF;  
+	background-color: #C9E4FF; 
+	font-family: Calibri, sans-serif; 
+	/* set font to Calibri, or the generic sans-serif font */
+}
+	 
+#outer-wrapper {	
+	width: 90%; 
+	margin: 0 auto 0 auto; 
+	/* center content within id="outer-wrapper" */
+}
+				
+nav, #content, footer { 
+	padding: 10px; 
+	/* add 10px of padding on all four sides of the wireframe containers */
+}
+
+header {
+	padding: 0 2% 2% 0;
+}
+
+header, #content, footer {
+	background-color: #4CA6FF;
+}
+
+footer { 
+	font-size: 0.75em;
+	text-align: center;
+	/* center the text in the footer */
+}
+	
+img { 
+	float: left;
+	/* float the image to the left */
+}
+
+.rightmargin { 
+	margin-right: 2%;
+	/* add 2% right margin to class="rightmargin" */
+}
+
+h1, h2, h3 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	padding-top: 1%;
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+}
+
+nav {
+	background-color: #c9e4ff;
+}
+
+.clearfloat {
+	clear: both;
+}
+
+
+
+
+
