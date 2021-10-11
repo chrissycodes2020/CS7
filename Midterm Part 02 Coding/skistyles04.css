@@ -1,0 +1,67 @@
+/*Chrissy Stevens Oct 11, 2021  */
+
+/* css comment */
+
+body { color: #FFFFFF;  
+    background-color: #C9E4FF; 
+    font-family: Calibri, sans-serif;
+}
+
+/* css comment */
+   
+#outer-wrapper {	
+    width: 90%; 
+    margin: 0 auto 0 auto; 
+}
+
+/* css comment */
+              
+#content, footer { 
+    background-color: #4CA6FF;
+    padding: 10px;
+}
+
+header {
+    background-color: #4CA6FF;
+    padding: 0 2% 2% 0;
+}
+
+nav {
+    background-color: #C9E4FF;
+    padding: 10px;
+    
+}
+
+/* css comment */
+
+footer { 
+    font-size: 0.75em;
+    text-align: center;
+}
+
+/* css comment */
+  
+img { 
+    float: left;
+}
+
+/* css comment */
+
+.rightmargin { 
+    margin-right: 2%;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 1%;
+
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+.clearfloat {
+    clear: both;
+}
